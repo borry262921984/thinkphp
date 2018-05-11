@@ -11,6 +11,6 @@
     <link rel="stylesheet" type="text/css" href="__EASYUI__/themes/icon.css" />
 </head>
 <body>
-    <div></div>
+
 </body>
 </html>
